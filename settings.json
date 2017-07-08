@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.shell.windows": "C:\\msys64\\home\\n-tominaga\\bin\\bash-login.exe",
+  "terminal.integrated.cwd": "C:\\msys64\\home\\tominaga",
+  "vim.disableAnnoyingNeovimMessage": true,
+  "editor.cursorBlinking": "solid"
+}
