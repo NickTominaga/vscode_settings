@@ -33,7 +33,7 @@ code --install-extension vscodevim.vim
 # get plantuml latex plug-in (currently temporaly dropbox link at 20170705)
 wget https://www.dropbox.com/s/z7yah4mpi2mk1mj/plantuml-jlatexmath.zip
 unzip plantuml-jlatexmath.zip
-mv *.jar ~/.vscode/extensions/jebbs.plantuml-2.0.0/
+mv *.jar ~/.vscode/extensions/jebbs.plantuml*
 rm -f  plantuml-jlatexmath.zip
 
 
